@@ -18,7 +18,7 @@
 
 ---
 
-# \*\*Repo Name\*\*
+# Repo Name
 
 \*\*Repo description\*\*
 
